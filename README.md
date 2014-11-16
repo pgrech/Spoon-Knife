@@ -12,3 +12,5 @@ Philip Addendum
 
 
 Gugus
+
+sollte beim anderen jetzt quasi nicht Ÿbernommen werden.
